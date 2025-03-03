@@ -7,6 +7,7 @@ const Navbar = () => {
     <div className='navbar'>
       <img src={logo} alt="" />
       <ul className="nav-menu">
+        <li></li>
         
       </ul>
     </div>

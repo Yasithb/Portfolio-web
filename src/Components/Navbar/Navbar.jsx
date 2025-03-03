@@ -9,7 +9,7 @@ const Navbar = () => {
       <ul className="nav-menu">
         <li>Home</li>
         <li>About Me</li>
-        <li></li>
+        <li>Services</li>
         <li></li>
         <li></li>
         

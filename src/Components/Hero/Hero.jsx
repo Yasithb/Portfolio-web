@@ -7,6 +7,7 @@ const Hero = () => {
     <div className='hero'>
         <img src={profile_img} alt="" />
         <h1>I'm Yasith Banula, Software Engineer based Sri Lanka</h1>
+        <p></p>
 
       
     </div>

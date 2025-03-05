@@ -27,4 +27,5 @@
 }
 .hero-action{
     display: flex;
+    align-items: center;
 }

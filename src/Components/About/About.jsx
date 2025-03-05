@@ -29,6 +29,11 @@ const About = () => {
             </div>
         </div>
       </div>
+      <div className="about-achievement">
+        <div className="about-achievement">
+            
+        </div>
+      </div>
     </div>
   )
 }

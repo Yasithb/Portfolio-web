@@ -15,7 +15,9 @@ const About = () => {
             <img src={profile_img} alt="" />
         </div>
         <div className="about-right">
-            
+            <div className="about-para">
+                
+            </div>
         </div>
       </div>
     </div>

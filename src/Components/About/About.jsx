@@ -16,7 +16,8 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                
+                <p></p>
+                <p></p>
             </div>
         </div>
       </div>

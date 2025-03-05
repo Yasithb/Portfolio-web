@@ -4,3 +4,6 @@
     flex-direction: column;
     gap: 35px;
 }
+.hero img{
+    margin-top: 150px;
+}

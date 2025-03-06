@@ -62,4 +62,5 @@
 }
 .about-achievements{
     display: flex;
+    width: 100%;
 }

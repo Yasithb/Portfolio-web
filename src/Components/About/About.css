@@ -43,4 +43,5 @@
 }
 .about-skill{
     display: flex;
+    gap: 50px;
 }

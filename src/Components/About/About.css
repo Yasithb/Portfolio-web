@@ -25,5 +25,5 @@
     gap: 80px;
 }
 .about-right{
-    
+    display: flex;
 }

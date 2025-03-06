@@ -30,5 +30,5 @@
     gap: 80px;
 }
 .about-para{
-    
+    display: flex;
 }

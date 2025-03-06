@@ -48,5 +48,7 @@
     transition: 0.3s;
 }
 .about-skill p{
+    min-width: 150px;
+    
     
 }

@@ -91,4 +91,5 @@
 }
 .about-achievement:hover{
     transform: scale(1.12);
+    transition: 0.5s;
 }

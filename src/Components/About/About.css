@@ -31,4 +31,5 @@
 }
 .about-para{
     display: flex;
+    flex-direction: column;
 }

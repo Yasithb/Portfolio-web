@@ -57,4 +57,5 @@
 }
 .sevices-readmore{
     display: flex;
+    gap: 20px;
 }

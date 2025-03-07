@@ -11,7 +11,9 @@ const Services = () => {
         </div>
         <div className="services-container">
             {Services_Data.map((Service,index)=>{
-                return <div></div>
+                return <div key={index} className='services-format'>
+                    
+                </div>
             })}
         </div>
       

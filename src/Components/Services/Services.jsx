@@ -13,7 +13,7 @@ const Services = () => {
             {Services_Data.map((Service,index)=>{
                 return <div key={index} className='services-format'>
                     <h3>{Service.s_no}</h3>
-                    
+                    <h2>{Service.s_name}</h2>
                 </div>
             })}
         </div>

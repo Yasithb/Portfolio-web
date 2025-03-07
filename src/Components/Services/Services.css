@@ -62,5 +62,6 @@
     margin-top: 20px;
 }
 .services-format:hover{
+    border: 2px solid #ff00ff;
     
 }

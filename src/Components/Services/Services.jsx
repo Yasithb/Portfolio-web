@@ -9,6 +9,9 @@ const Services = () => {
             <h1>My Services</h1>
             <img src={theme_pattern} alt="" />
         </div>
+        <div className="services-container">
+            
+        </div>
       
     </div>
   )

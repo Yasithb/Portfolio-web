@@ -23,5 +23,6 @@
 .services-format{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     
 }

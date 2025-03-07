@@ -10,7 +10,7 @@ const Services = () => {
             <img src={theme_pattern} alt="" />
         </div>
         <div className="services-container">
-            
+            {}
         </div>
       
     </div>

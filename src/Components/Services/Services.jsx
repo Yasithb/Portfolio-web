@@ -1,7 +1,7 @@
 import React from 'react'
 import './Services.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
-
+import Services_Data from '../../assets/services_data'
 const Services = () => {
   return (
     <div className='services'>

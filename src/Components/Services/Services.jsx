@@ -7,7 +7,7 @@ const Services = () => {
     <div className='services'>
         <div className="services-title">
             <h1>My Services</h1>
-            <img src={} alt="" />
+            <img src={theme_pattern} alt="" />
         </div>
       
     </div>

@@ -29,4 +29,6 @@
     box-sizing: border-box;
     width: 419px;
     height: 280px;
+    transition: 0.3s;
+    
 }

@@ -9,6 +9,9 @@ const Contact = () => {
             <h1>Get in touch</h1>
             <img src={theme_pattern} alt="" />
         </div>
+        <div className="contact-section">
+            
+        </div>
       
     </div>
   )

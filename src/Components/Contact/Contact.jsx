@@ -14,7 +14,9 @@ const Contact = () => {
                 <h1>Let's talk</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, eaque!</p>
                 <div className="contact-details">
-                    
+                    <div className="contact-detail">
+                        
+                    </div>
                 </div>
             </div>
         </div>

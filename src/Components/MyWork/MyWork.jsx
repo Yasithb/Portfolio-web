@@ -5,7 +5,7 @@ const MyWork = () => {
   return (
     <div className='mywork'>
       <div className="mywork-title">
-        
+        <h1></h1>
       </div>
         
       

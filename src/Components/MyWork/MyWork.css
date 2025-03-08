@@ -39,5 +39,5 @@
     transition: 0.3s;
 }
 .mywork-showmore{
-    
+    display: flex;
 }

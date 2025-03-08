@@ -22,6 +22,7 @@ const Contact = () => {
 
                     </div>
                     <div className="contact-detail">
+                        <img src="" alt="" />
                         
                     </div>
                     <div className="contact-detail">

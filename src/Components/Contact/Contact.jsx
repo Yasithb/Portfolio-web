@@ -20,6 +20,9 @@ const Contact = () => {
                     <div className="contact-detail">
                         
                     </div>
+                    <div className="contact-detail">
+                        
+                    </div>
                 </div>
             </div>
         </div>

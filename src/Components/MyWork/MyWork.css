@@ -26,5 +26,5 @@
     gap: 40px;
 }
 .mywork-container img{
-    
+    box-sizing: border-box;
 }

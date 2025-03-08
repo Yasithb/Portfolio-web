@@ -12,6 +12,8 @@ const Contact = () => {
         <div className="contact-section">
             <div className="contact-left">
                 <h1>Let's talk</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, eaque!</p>
+                
             </div>
         </div>
       

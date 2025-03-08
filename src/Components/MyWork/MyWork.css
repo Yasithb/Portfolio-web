@@ -33,5 +33,6 @@
     cursor: pointer;
 }
 .mywork-container img:hover{
+    transform: scale(1.10);
     
 }

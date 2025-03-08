@@ -6,7 +6,7 @@ const Contact = () => {
     <div className='contact'>
         <div className="contact-title">
             <h1>Get in touch</h1>
-            
+            <img src={} alt="" />
         </div>
       
     </div>

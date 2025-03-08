@@ -51,5 +51,6 @@
     cursor: pointer;
 }
 .mywork-showmore:hover{
+    gap: 30px;
     
 }

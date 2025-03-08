@@ -18,7 +18,7 @@ const Contact = () => {
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, eaque!</p>
                 <div className="contact-details">
                     <div className="contact-detail">
-                        <img src="" alt="" /> <p></p>
+                        <img src={mail_icon} alt="" /> <p></p>
 
                     </div>
                     <div className="contact-detail">

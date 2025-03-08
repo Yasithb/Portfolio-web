@@ -10,7 +10,9 @@ const Contact = () => {
             <img src={theme_pattern} alt="" />
         </div>
         <div className="contact-section">
-            
+            <div className="contact-left">
+                
+            </div>
         </div>
       
     </div>

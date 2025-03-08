@@ -41,4 +41,6 @@
 .mywork-showmore{
     display: flex;
     gap: 15px;
+    border-radius: 50px;
+    border: 2px solid white;
 }

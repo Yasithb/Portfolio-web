@@ -36,6 +36,5 @@
     transform: scale(1.10);
     border: 4px solid;
     border-radius: 10px;
-    
-
+    transition: 0.3s;
 }

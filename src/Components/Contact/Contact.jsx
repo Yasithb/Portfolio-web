@@ -22,7 +22,7 @@ const Contact = () => {
 
                     </div>
                     <div className="contact-detail">
-                        <img src="" alt="" /> <p></p>
+                        <img src={location_icon} alt="" /> <p></p>
                         
                     </div>
                     <div className="contact-detail">

@@ -7,7 +7,7 @@ const Contact = () => {
     <div className='contact'>
         <div className="contact-title">
             <h1>Get in touch</h1>
-            <img src={th} alt="" />
+            <img src={theme_pattern} alt="" />
         </div>
       
     </div>

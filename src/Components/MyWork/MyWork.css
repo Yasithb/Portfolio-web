@@ -52,5 +52,5 @@
 }
 .mywork-showmore:hover{
     gap: 30px;
-    
+    transition: 0.6s;
 }

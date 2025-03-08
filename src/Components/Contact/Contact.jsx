@@ -26,7 +26,7 @@ const Contact = () => {
                         
                     </div>
                     <div className="contact-detail">
-                        <img src="" alt="" /> <p></p>
+                        <img src={call_icon} alt="" /> <p></p>
                         
                     </div>
                 </div>

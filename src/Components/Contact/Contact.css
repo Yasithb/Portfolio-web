@@ -26,4 +26,6 @@
 }
 .contact-left{
     display: flex;
+    flex-direction: column;
+    
 }

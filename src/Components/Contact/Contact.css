@@ -50,3 +50,6 @@
     color: #D8D8D8;
     font-size: 22px;
 }
+.contact-detail{
+    display: flex;
+}

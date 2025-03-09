@@ -31,6 +31,7 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
+            <form className='contact-right'></form>
         </div>
       
     </div>

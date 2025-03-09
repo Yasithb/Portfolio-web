@@ -32,6 +32,7 @@ const Contact = () => {
                 </div>
             </div>
             <form className='contact-right'></form>
+            <label htmlFor=""></label>
         </div>
       
     </div>

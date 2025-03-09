@@ -52,4 +52,5 @@
 }
 .contact-detail{
     display: flex;
+    align-items: center;
 }

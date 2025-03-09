@@ -36,6 +36,7 @@ const Contact = () => {
             <input type="text" placeholder='Enter your name' name='name' />
             <form action="">Your Email</form>
             <input type="email" placeholder='Enter your email' name='email' />
+            <label htmlFor="">Write your message here</label>
             
 
         </div>

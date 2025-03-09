@@ -22,5 +22,5 @@
 }
 .contact-section{
     display: flex;
-    
+    gap: 150px;
 }

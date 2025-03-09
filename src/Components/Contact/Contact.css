@@ -55,3 +55,6 @@
     align-items: center;
     gap: 20px;
 }
+.contact-right{
+    display: flex;
+}

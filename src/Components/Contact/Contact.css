@@ -32,4 +32,6 @@
 .contact-left h1{
     font-size: 80px;
     font-weight: 700;
+    background: linear-gradient(270deg, #DF8908 80%, #B415FF 100%);
+    
 }

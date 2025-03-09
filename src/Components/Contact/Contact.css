@@ -44,5 +44,5 @@
     line-height: 35px;
 }
 .contact-details{
-    
+    display: flex;
 }

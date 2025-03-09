@@ -32,7 +32,7 @@ const Contact = () => {
                 </div>
             </div>
             <form className='contact-right'></form>
-            <label htmlFor=""></label>
+            <label htmlFor="">Your Name</label>
         </div>
       
     </div>

@@ -25,5 +25,5 @@
     gap: 150px;
 }
 .contact-left{
-    
+    display: flex;
 }

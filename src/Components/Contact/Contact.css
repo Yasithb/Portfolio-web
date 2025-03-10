@@ -99,5 +99,5 @@
     transition: 0.3s;
 }
 .contact-submit:hover{
-    
+    transform: scale(1.1);
 }
